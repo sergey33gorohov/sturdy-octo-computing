@@ -1,0 +1,13 @@
+body {background: grey}
+.menu{color: white; background: green; background-position: center; width: 300px; height: 100px; margin: 20px 150px 10px 100px; padding: 10px; border: 5px; border-style: ridge; font-family: all; font-size: 30px;}
+.me{background: blue; color: white; border: 5px; border-style: outset; width: 250px; height: 60px; margin: 20px 150px 10px 150px; font: all; font-size: 20px}
+.men{background: red; color: black; border: 7px; border-style: outset; width: 250px; height: 60px; margin: 20px 150px 10px 150px; font: all; font-size: 25px}
+h1{color: green; width: 600px;}
+ol{color: white; background: blue; background-position: center; width: 300px; height: 100px; border-style: double; font-style: italic; font-size: 20px}
+.mee{color: black; text-decoration: underline;}
+.meee{color: red; text-decoration: underline;}
+#box{color: white; text-decoration: underline;}
+.m{color: green; text-decoration: underline; background: white; font-style: italic; border-style: inherit;}
+.m1{font-size: 30px;}
+@import "imported.css"
+table{border-color: green;}
